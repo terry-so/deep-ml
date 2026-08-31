@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:35:26.430Z",
+  "generated_at": "2026-10-16T23:35:32.610Z",
   "items": {
     "problem:109": {
       "kind": "problem",
@@ -13,6 +13,32 @@
       "last_pushed_at": "2026-10-16T23:35:21.897Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-08-31T01:17:33.180Z",
+      "last_pushed_at": "2026-08-31T01:17:33.180Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-08-31T01:24:40.388Z",
+      "last_pushed_at": "2026-08-31T01:24:40.388Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
