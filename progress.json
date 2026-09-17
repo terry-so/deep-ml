@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:35:32.610Z",
+  "generated_at": "2026-10-16T23:35:34.827Z",
   "items": {
     "problem:109": {
       "kind": "problem",
@@ -39,6 +39,32 @@
       "last_pushed_at": "2026-08-31T01:24:40.388Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:1220": {
+      "kind": "problem",
+      "id": "1220",
+      "title": "Create and Inspect a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1220",
+      "path": "problems/1220-create-and-inspect-a-tensor",
+      "first_solved_at": "2026-09-17T13:50:43.592Z",
+      "last_pushed_at": "2026-09-17T13:50:43.592Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:1221": {
+      "kind": "problem",
+      "id": "1221",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1221",
+      "path": "problems/1221-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-09-17T18:26:22.666Z",
+      "last_pushed_at": "2026-09-17T18:26:22.666Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
