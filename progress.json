@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:35:36.609Z",
+  "generated_at": "2026-10-16T23:35:38.505Z",
   "items": {
     "problem:109": {
       "kind": "problem",
@@ -91,6 +91,71 @@
       "last_pushed_at": "2026-09-18T01:05:54.353Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-19T00:07:23.260Z",
+      "last_pushed_at": "2026-09-19T00:07:23.260Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-19T00:10:41.475Z",
+      "last_pushed_at": "2026-09-19T00:10:41.475Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-09-19T00:34:57.084Z",
+      "last_pushed_at": "2026-09-19T00:34:57.084Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-19T01:02:25.369Z",
+      "last_pushed_at": "2026-09-19T01:02:25.369Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:205": {
+      "kind": "problem",
+      "id": "205",
+      "title": "Entropy & Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/205",
+      "path": "problems/0205-entropy-cross-entropy",
+      "first_solved_at": "2026-09-19T22:22:14.961Z",
+      "last_pushed_at": "2026-09-19T22:22:14.961Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
